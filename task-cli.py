@@ -173,7 +173,7 @@ if len(argv) < 2:
     print('\tpython task-cli.py delete 1')
     print('\tpython task-cli.py mark-in-progress 1\n')
     print('LEARN MORE')
-    print('\tVisit https://github.com/rohit-373/task-tracker')
+    print('\tVisit https://github.com/rohit-373/Task-Tracker')
     quit()
 
 command = argv[1]
