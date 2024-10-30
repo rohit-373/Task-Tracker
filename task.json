@@ -1,0 +1,25 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "description": "first try",
+            "status": "todo",
+            "createdAt": "30-10-2024 16:44",
+            "updatedAt": "30-10-2024 16:44"
+        },
+        {
+            "id": 2,
+            "description": "second try",
+            "status": "in-progress",
+            "createdAt": "30-10-2024 16:44",
+            "updatedAt": "30-10-2024 16:45"
+        },
+        {
+            "id": 3,
+            "description": "fourth try",
+            "status": "done",
+            "createdAt": "30-10-2024 16:44",
+            "updatedAt": "30-10-2024 16:57"
+        }
+    ]
+}
